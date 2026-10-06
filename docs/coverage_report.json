@@ -1,0 +1,52 @@
+{
+  "演示夏行楷": {
+    "missing_simplified": {},
+    "missing_traditional": {
+      "海内存知己，天涯若比邻": [
+        "內",
+        "鄰"
+      ],
+      "宁静致远": [
+        "寧",
+        "靜",
+        "遠"
+      ]
+    },
+    "total_chars_in_cmap": 6971
+  },
+  "江西拙楷": {
+    "missing_simplified": {},
+    "missing_traditional": {
+      "海内存知己，天涯若比邻": [
+        "內",
+        "鄰"
+      ],
+      "宁静致远": [
+        "寧",
+        "靜",
+        "遠"
+      ]
+    },
+    "total_chars_in_cmap": 6248
+  },
+  "鸿雷行书简体": {
+    "missing_simplified": {},
+    "missing_traditional": {
+      "海内存知己，天涯若比邻": [
+        "內",
+        "鄰"
+      ],
+      "宁静致远": [
+        "寧",
+        "靜",
+        "遠"
+      ]
+    },
+    "total_chars_in_cmap": 7010
+  },
+  "霞鹜文楷": {
+    "missing_simplified": {},
+    "missing_traditional": {},
+    "total_chars_in_cmap": 46490
+  }
+}

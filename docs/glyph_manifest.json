@@ -1,0 +1,514 @@
+{
+  "format": "glyph-manifest-v1",
+  "note": "占位字形图，MCCD 到手后同格式替换",
+  "fonts": {
+    "演示夏行楷": {
+      "path": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\fonts\\SlideXiaxing.ttf",
+      "dir": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷",
+      "missing": []
+    },
+    "江西拙楷": {
+      "path": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\fonts\\JiangXiZhuoKai.ttf",
+      "dir": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷",
+      "missing": []
+    },
+    "鸿雷行书简体": {
+      "path": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\fonts\\HongLeiXingShu.otf",
+      "dir": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体",
+      "missing": []
+    },
+    "霞鹜文楷": {
+      "path": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\fonts\\LXGWWenKai-Regular.ttf",
+      "dir": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷",
+      "missing": []
+    }
+  },
+  "chars": {
+    "一": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+4E00_一.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+4E00_一.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+4E00_一.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+4E00_一.png"
+    },
+    "上": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+4E0A_上.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+4E0A_上.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+4E0A_上.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+4E0A_上.png"
+    },
+    "下": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+4E0B_下.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+4E0B_下.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+4E0B_下.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+4E0B_下.png"
+    },
+    "不": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+4E0D_不.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+4E0D_不.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+4E0D_不.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+4E0D_不.png"
+    },
+    "与": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+4E0E_与.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+4E0E_与.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+4E0E_与.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+4E0E_与.png"
+    },
+    "为": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+4E3A_为.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+4E3A_为.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+4E3A_为.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+4E3A_为.png"
+    },
+    "之": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+4E4B_之.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+4E4B_之.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+4E4B_之.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+4E4B_之.png"
+    },
+    "书": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+4E66_书.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+4E66_书.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+4E66_书.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+4E66_书.png"
+    },
+    "于": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+4E8E_于.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+4E8E_于.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+4E8E_于.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+4E8E_于.png"
+    },
+    "以": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+4EE5_以.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+4EE5_以.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+4EE5_以.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+4EE5_以.png"
+    },
+    "伦": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+4F26_伦.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+4F26_伦.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+4F26_伦.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+4F26_伦.png"
+    },
+    "作": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+4F5C_作.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+4F5C_作.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+4F5C_作.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+4F5C_作.png"
+    },
+    "健": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5065_健.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5065_健.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5065_健.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5065_健.png"
+    },
+    "共": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5171_共.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5171_共.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5171_共.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5171_共.png"
+    },
+    "内": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5185_内.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5185_内.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5185_内.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5185_内.png"
+    },
+    "勤": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+52E4_勤.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+52E4_勤.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+52E4_勤.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+52E4_勤.png"
+    },
+    "千": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5343_千.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5343_千.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5343_千.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5343_千.png"
+    },
+    "厚": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+539A_厚.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+539A_厚.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+539A_厚.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+539A_厚.png"
+    },
+    "及": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+53CA_及.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+53CA_及.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+53CA_及.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+53CA_及.png"
+    },
+    "君": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+541B_君.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+541B_君.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+541B_君.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+541B_君.png"
+    },
+    "善": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5584_善.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5584_善.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5584_善.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5584_善.png"
+    },
+    "天": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5929_天.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5929_天.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5929_天.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5929_天.png"
+    },
+    "始": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+59CB_始.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+59CB_始.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+59CB_始.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+59CB_始.png"
+    },
+    "子": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5B50_子.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5B50_子.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5B50_子.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5B50_子.png"
+    },
+    "存": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5B58_存.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5B58_存.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5B58_存.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5B58_存.png"
+    },
+    "孤": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5B64_孤.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5B64_孤.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5B64_孤.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5B64_孤.png"
+    },
+    "学": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5B66_学.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5B66_学.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5B66_学.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5B66_学.png"
+    },
+    "宁": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5B81_宁.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5B81_宁.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5B81_宁.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5B81_宁.png"
+    },
+    "尺": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5C3A_尺.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5C3A_尺.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5C3A_尺.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5C3A_尺.png"
+    },
+    "山": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5C71_山.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5C71_山.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5C71_山.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5C71_山.png"
+    },
+    "己": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5DF1_己.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5DF1_己.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5DF1_己.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5DF1_己.png"
+    },
+    "强": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5F3A_强.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5F3A_强.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5F3A_强.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5F3A_强.png"
+    },
+    "径": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5F84_径.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5F84_径.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5F84_径.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5F84_径.png"
+    },
+    "德": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+5FB7_德.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+5FB7_德.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+5FB7_德.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+5FB7_德.png"
+    },
+    "息": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+606F_息.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+606F_息.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+606F_息.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+606F_息.png"
+    },
+    "情": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+60C5_情.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+60C5_情.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+60C5_情.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+60C5_情.png"
+    },
+    "我": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+6211_我.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+6211_我.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+6211_我.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+6211_我.png"
+    },
+    "无": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+65E0_无.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+65E0_无.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+65E0_无.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+65E0_无.png"
+    },
+    "明": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+660E_明.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+660E_明.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+660E_明.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+660E_明.png"
+    },
+    "月": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+6708_月.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+6708_月.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+6708_月.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+6708_月.png"
+    },
+    "有": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+6709_有.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+6709_有.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+6709_有.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+6709_有.png"
+    },
+    "松": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+677E_松.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+677E_松.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+677E_松.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+677E_松.png"
+    },
+    "桃": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+6843_桃.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+6843_桃.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+6843_桃.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+6843_桃.png"
+    },
+    "比": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+6BD4_比.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+6BD4_比.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+6BD4_比.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+6BD4_比.png"
+    },
+    "水": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+6C34_水.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+6C34_水.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+6C34_水.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+6C34_水.png"
+    },
+    "汪": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+6C6A_汪.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+6C6A_汪.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+6C6A_汪.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+6C6A_汪.png"
+    },
+    "泉": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+6CC9_泉.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+6CC9_泉.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+6CC9_泉.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+6CC9_泉.png"
+    },
+    "流": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+6D41_流.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+6D41_流.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+6D41_流.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+6D41_流.png"
+    },
+    "海": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+6D77_海.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+6D77_海.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+6D77_海.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+6D77_海.png"
+    },
+    "涯": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+6DAF_涯.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+6DAF_涯.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+6DAF_涯.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+6DAF_涯.png"
+    },
+    "深": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+6DF1_深.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+6DF1_深.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+6DF1_深.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+6DF1_深.png"
+    },
+    "清": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+6E05_清.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+6E05_清.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+6E05_清.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+6E05_清.png"
+    },
+    "潭": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+6F6D_潭.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+6F6D_潭.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+6F6D_潭.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+6F6D_潭.png"
+    },
+    "照": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+7167_照.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+7167_照.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+7167_照.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+7167_照.png"
+    },
+    "物": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+7269_物.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+7269_物.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+7269_物.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+7269_物.png"
+    },
+    "知": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+77E5_知.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+77E5_知.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+77E5_知.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+77E5_知.png"
+    },
+    "石": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+77F3_石.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+77F3_石.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+77F3_石.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+77F3_石.png"
+    },
+    "秋": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+79CB_秋.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+79CB_秋.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+79CB_秋.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+79CB_秋.png"
+    },
+    "自": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+81EA_自.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+81EA_自.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+81EA_自.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+81EA_自.png"
+    },
+    "致": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+81F4_致.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+81F4_致.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+81F4_致.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+81F4_致.png"
+    },
+    "舟": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+821F_舟.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+821F_舟.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+821F_舟.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+821F_舟.png"
+    },
+    "色": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+8272_色.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+8272_色.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+8272_色.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+8272_色.png"
+    },
+    "花": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+82B1_花.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+82B1_花.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+82B1_花.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+82B1_花.png"
+    },
+    "若": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+82E5_若.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+82E5_若.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+82E5_若.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+82E5_若.png"
+    },
+    "苦": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+82E6_苦.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+82E6_苦.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+82E6_苦.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+82E6_苦.png"
+    },
+    "落": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+843D_落.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+843D_落.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+843D_落.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+843D_落.png"
+    },
+    "行": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+884C_行.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+884C_行.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+884C_行.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+884C_行.png"
+    },
+    "足": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+8DB3_足.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+8DB3_足.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+8DB3_足.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+8DB3_足.png"
+    },
+    "路": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+8DEF_路.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+8DEF_路.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+8DEF_路.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+8DEF_路.png"
+    },
+    "载": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+8F7D_载.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+8F7D_载.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+8F7D_载.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+8F7D_载.png"
+    },
+    "远": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+8FDC_远.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+8FDC_远.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+8FDC_远.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+8FDC_远.png"
+    },
+    "送": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+9001_送.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+9001_送.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+9001_送.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+9001_送.png"
+    },
+    "邻": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+90BB_邻.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+90BB_邻.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+90BB_邻.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+90BB_邻.png"
+    },
+    "里": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+91CC_里.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+91CC_里.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+91CC_里.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+91CC_里.png"
+    },
+    "长": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+957F_长.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+957F_长.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+957F_长.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+957F_长.png"
+    },
+    "间": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+95F4_间.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+95F4_间.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+95F4_间.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+95F4_间.png"
+    },
+    "霞": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+971E_霞.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+971E_霞.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+971E_霞.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+971E_霞.png"
+    },
+    "静": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+9759_静.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+9759_静.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+9759_静.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+9759_静.png"
+    },
+    "飞": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+98DE_飞.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+98DE_飞.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+98DE_飞.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+98DE_飞.png"
+    },
+    "鹜": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+9E5C_鹜.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+9E5C_鹜.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+9E5C_鹜.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+9E5C_鹜.png"
+    },
+    "齐": {
+      "演示夏行楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\演示夏行楷\\U+9F50_齐.png",
+      "江西拙楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\江西拙楷\\U+9F50_齐.png",
+      "鸿雷行书简体": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\鸿雷行书简体\\U+9F50_齐.png",
+      "霞鹜文楷": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder\\霞鹜文楷\\U+9F50_齐.png"
+    }
+  }
+}

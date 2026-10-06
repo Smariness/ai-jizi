@@ -1,0 +1,31 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+build/
+dist/
+
+# 字形数据与产物（体积大 / 授权限制，不入公开仓库）
+data/
+glyph_images/
+glyphs_shufaziti/
+glyphs*.db*
+glyphs_placeholder/
+output/
+build_report.json
+gpt_handoff_package.zip
+*.zip2
+*.log
+
+# 字体文件（授权逐源核对前不入库，自备后放入 fonts/）
+fonts/
+
+# 内部协作与个人材料
+TASKBOARD.md
+GPT开工包.md
+docs/*.docx
+docs/glyph_manifest_real.json
+docs/glyph_manifest_distributable.json

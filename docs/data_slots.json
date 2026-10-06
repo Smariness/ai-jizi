@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "edition": "placeholder",
+  "manifest": "docs/glyph_manifest.json",
+  "placeholder_images": "glyphs_placeholder/",
+  "reserved": {
+    "database": "glyphs.db",
+    "images": "glyph_images/",
+    "encoder": "encoder.onnx"
+  },
+  "notes": "本版不创建伪数据库或伪模型。B1/B2 完成后准备实际文件、更新 v1 manifest 相对路径并重新构建；数据库/模型查询适配仍属后续任务。"
+}
