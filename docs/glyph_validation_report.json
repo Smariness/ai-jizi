@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "characters": 81,
+  "sources": {
+    "演示夏行楷": 81,
+    "江西拙楷": 81,
+    "鸿雷行书简体": 81,
+    "霞鹜文楷": 81
+  },
+  "mapped_images": 324,
+  "actual_png_files": 324,
+  "size": [
+    256,
+    256
+  ],
+  "mode": "RGBA",
+  "transparent_background": true,
+  "all_have_ink": true,
+  "minimum_margin_pixels": 25,
+  "manifest_paths_exist": true,
+  "manifest_v1_unchanged": true
+}

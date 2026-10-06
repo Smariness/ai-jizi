@@ -1,0 +1,11 @@
+{
+  "text": "海内存知己，天涯若比邻",
+  "font": "演示夏行楷",
+  "direction": "vertical",
+  "char_size": 160,
+  "char_gap": 24,
+  "line_gap": 40,
+  "grid": false,
+  "margin": 80,
+  "line_length": 5
+}

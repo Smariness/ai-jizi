@@ -1,0 +1,30 @@
+{
+  "name": "ai-jizi",
+  "version": "0.1.0",
+  "private": true,
+  "description": "离线集字：Electron 工作台与 SVG 排版引擎",
+  "author": "AI 集字项目",
+  "type": "commonjs",
+  "main": "app/main.js",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "start": "electron . --disable-gpu",
+    "test": "node --test tests/*.test.js",
+    "verify:b5": "node scripts/verify_b5.js",
+    "verify:b4": "node scripts/verify_b4.js",
+    "stage:b8": "node scripts/prepare_package.js",
+    "dist": "node scripts/build_b8.js",
+    "verify:package": "node scripts/verify_package.js"
+  },
+  "dependencies": {
+    "sharp": "0.35.4"
+  },
+  "devDependencies": {
+    "@electron/asar": "4.3.1",
+    "electron": "44.5.1",
+    "electron-builder": "26.15.3",
+    "playwright-core": "1.63.0"
+  }
+}

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; font-src 'self'; img-src data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>集字工作台 · 占位字库版</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="renderer.js" defer></script>
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand"><span class="brand-seal" aria-hidden="true">字</span><div><h1>集字工作台</h1><p>选字成篇，自有章法</p></div></div>
+    <div class="header-actions"><span class="offline-badge"><i></i>本地占位字库</span><button id="export-button" class="primary" disabled>导出 PNG <span aria-hidden="true">↗</span></button></div>
+  </header>
+  <main class="workspace">
+    <aside class="controls-panel">
+      <section class="text-section">
+        <div class="section-title"><h2>作品正文</h2><span id="character-count">0 字</span></div>
+        <label class="sr-only" for="text-input">作品正文</label>
+        <textarea id="text-input" spellcheck="false" placeholder="输入想要集字的句子…" maxlength="10000"></textarea>
+        <p class="field-note">默认去标点，换行可手动分列。</p>
+        <label for="sample-select" class="small-label">试一段文字</label>
+        <select id="sample-select"><option value="">选择测试文本</option></select>
+        <p id="input-error" class="error-message" role="alert" hidden></p>
+      </section>
+      <section class="style-section">
+        <div class="section-title"><h2>书风与排布</h2><button id="reset-style" class="text-button">恢复默认</button></div>
+        <label for="source-select">字形来源</label>
+        <select id="source-select"></select>
+        <label for="direction-select">排布方向</label>
+        <select id="direction-select"><option value="vertical">竖排 · 从右向左</option><option value="horizontal">横排 · 从左向右</option></select>
+        <div class="number-fields">
+          <label>字号 <span>px</span><input id="char-size" type="number" value="160" min="16" max="2048"></label>
+          <label>字距 <span>px</span><input id="char-gap" type="number" value="24" min="0" max="4096"></label>
+          <label><b id="line-gap-label">列距</b> <span>px</span><input id="line-gap" type="number" value="40" min="0" max="4096"></label>
+          <label>外边距 <span>px</span><input id="margin" type="number" value="80" min="0" max="4096"></label>
+        </div>
+        <label class="inline-number"><span id="line-length-label">每列字数</span><input id="line-length" type="number" value="5" min="1" max="200"></label>
+        <label class="check-label"><input id="grid-toggle" type="checkbox">显示米字格</label>
+        <label class="check-label"><input id="placeholders-toggle" type="checkbox">预留落款与印章位置</label>
+      </section>
+      <div id="library-info" class="library-info">正在载入本地字库…</div>
+    </aside>
+    <section class="preview-panel" aria-label="作品预览">
+      <div class="preview-toolbar"><div><h2>作品预览</h2><span id="preview-summary">正在生成</span></div>
+        <div class="zoom-controls"><button id="zoom-out" aria-label="缩小预览">−</button><span id="zoom-value">适应画布</span><button id="zoom-in" aria-label="放大预览">＋</button><button id="fit-preview">适应</button></div>
+      </div>
+      <div id="preview-stage" class="preview-stage"><div class="preview-center">
+        <div id="preview-document" class="preview-document" hidden></div>
+        <div id="preview-empty" class="empty-preview"><span aria-hidden="true">字</span><h3>在左侧写下正文</h3><p>作品会在这里呈现</p></div>
+      </div></div>
+      <div class="preview-footer"><span id="render-status" role="status" aria-live="polite">正在载入</span><span>点击作品中的字，选择其他写法</span></div>
+    </section>
+    <aside class="candidates-panel">
+      <div class="section-title"><h2>选择写法</h2><span id="candidate-count"></span></div>
+      <div class="selected-glyph"><span id="selected-char">—</span><div><strong id="selected-position">点选正文中的字</strong><p id="selected-source">比较不同来源的写法</p></div></div>
+      <div id="candidate-list" class="candidate-list"><p class="candidate-empty">选中一个字后，可在这里切换写法。</p></div>
+      <button id="reset-glyph" class="secondary" disabled>恢复这个字的默认写法</button>
+      <p class="candidate-note">只替换选中的字，其他字形保持当前选择。</p>
+    </aside>
+  </main>
+  <div id="toast" class="toast" role="status" hidden></div>
+</body>
+</html>

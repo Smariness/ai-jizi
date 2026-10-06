@@ -1,0 +1,116 @@
+{
+  "楷-多宝塔": {
+    "calligrapher": "颜真卿",
+    "source_work": "多宝塔碑",
+    "style": "楷书",
+    "dynasty": "唐"
+  },
+  "楷-张即之": {
+    "calligrapher": "张即之",
+    "source_work": "楷书（未标作品）",
+    "style": "楷书",
+    "dynasty": "宋"
+  },
+  "楷-智永": {
+    "calligrapher": "智永",
+    "source_work": "楷书（未标作品）",
+    "style": "楷书",
+    "dynasty": "隋"
+  },
+  "楷-柳公权": {
+    "calligrapher": "柳公权",
+    "source_work": "楷书（未标作品）",
+    "style": "楷书",
+    "dynasty": "唐"
+  },
+  "楷-沈尹默": {
+    "calligrapher": "沈尹默",
+    "source_work": "楷书（未标作品）",
+    "style": "楷书",
+    "dynasty": "近现代"
+  },
+  "楷-虞世南": {
+    "calligrapher": "虞世南",
+    "source_work": "楷书（未标作品）",
+    "style": "楷书",
+    "dynasty": "唐"
+  },
+  "楷-赵之谦": {
+    "calligrapher": "赵之谦",
+    "source_work": "楷书（未标作品）",
+    "style": "楷书",
+    "dynasty": "清"
+  },
+  "楷-赵孟俯三门记": {
+    "calligrapher": "赵孟頫",
+    "source_work": "三门记",
+    "style": "楷书",
+    "dynasty": "元"
+  },
+  "楷-魏碑": {
+    "calligrapher": "佚名",
+    "source_work": "魏碑（未标作品）",
+    "style": "楷书",
+    "dynasty": "北魏"
+  },
+  "行-傅山": {
+    "calligrapher": "傅山",
+    "source_work": "行书（未标作品）",
+    "style": "行书",
+    "dynasty": "明清"
+  },
+  "行-王壮为": {
+    "calligrapher": "王壮为",
+    "source_work": "行书（未标作品）",
+    "style": "行书",
+    "dynasty": "近现代"
+  },
+  "行-王铎": {
+    "calligrapher": "王铎",
+    "source_work": "行书（未标作品）",
+    "style": "行书",
+    "dynasty": "明清"
+  },
+  "行-米芾": {
+    "calligrapher": "米芾",
+    "source_work": "行书（未标作品）",
+    "style": "行书",
+    "dynasty": "宋"
+  },
+  "行-郑板桥": {
+    "calligrapher": "郑板桥",
+    "source_work": "行书（未标作品）",
+    "style": "行书",
+    "dynasty": "清"
+  },
+  "行-集字圣教序": {
+    "calligrapher": "王羲之",
+    "source_work": "集字圣教序",
+    "style": "行书",
+    "dynasty": "东晋"
+  },
+  "隶-伊秉绶": {
+    "calligrapher": "伊秉绶",
+    "source_work": "隶书（未标作品）",
+    "style": "隶书",
+    "dynasty": "清"
+  },
+  "隶-何绍基": {
+    "calligrapher": "何绍基",
+    "source_work": "隶书（未标作品）",
+    "style": "隶书",
+    "dynasty": "清"
+  },
+  "隶-邓石如": {
+    "calligrapher": "邓石如",
+    "source_work": "隶书（未标作品）",
+    "style": "隶书",
+    "dynasty": "清"
+  },
+  "隶-金农": {
+    "calligrapher": "金农",
+    "source_work": "隶书（未标作品）",
+    "style": "隶书",
+    "dynasty": "清"
+  }
+}
