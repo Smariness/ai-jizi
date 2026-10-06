@@ -1,0 +1,43 @@
+{
+  "format": "glyph-export-report-v1",
+  "manifest_format": "glyph-manifest-v1",
+  "text_file": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\test_texts.txt",
+  "text_sha256": "064130f3af8dcf9d02232b42d988b30d31ecc9dd03376824bd4cad0aea5db83f",
+  "manifest": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\docs\\glyph_manifest.json",
+  "glyph_directory": "C:\\Users\\admin\\WorkBuddy\\2026-10-03-19-58-03\\ai-jizi\\glyphs_placeholder",
+  "unique_char_count": 81,
+  "font_count": 4,
+  "image_count": 324,
+  "canvas_size": [
+    256,
+    256
+  ],
+  "mode": "RGBA",
+  "transparent_background": true,
+  "minimum_margin_pixels": 25,
+  "missing_count": 0,
+  "fallback_count": 0,
+  "simplified_to_traditional": false,
+  "fonts": {
+    "演示夏行楷": {
+      "count": 81,
+      "missing": [],
+      "fallback_count": 0
+    },
+    "江西拙楷": {
+      "count": 81,
+      "missing": [],
+      "fallback_count": 0
+    },
+    "鸿雷行书简体": {
+      "count": 81,
+      "missing": [],
+      "fallback_count": 0
+    },
+    "霞鹜文楷": {
+      "count": 81,
+      "missing": [],
+      "fallback_count": 0
+    }
+  }
+}

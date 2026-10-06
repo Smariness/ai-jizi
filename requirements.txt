@@ -1,0 +1,5 @@
+Pillow==12.3.0
+fonttools==4.66.1
+opencc-python-reimplemented==0.1.7
+resvg-py==0.5.0
+gdown==5.2.0
